@@ -1,7 +1,7 @@
 <div align="center">
 
-# Jay Prajapati 
-### Full Stack Developer | React.js · Next.js · Node.js · MongoDB
+# Full Stack Developer | MERN Stack Developer 
+### React.js · Next.js · Node.js · MongoDB
 
 Building scalable full-stack web applications — from front-end design to back-end architecture and cloud deployment.
 
