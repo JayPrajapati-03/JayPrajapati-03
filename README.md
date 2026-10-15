@@ -58,19 +58,19 @@ Building scalable full-stack web applications — from front-end design to back-
 ---
 
 ### 🚀 Featured Projects
-
-**🏨 [BookIt — Real-Time Hotel Booking Platform](https://bookit-project.vercel.app)**
-Real-time room availability, JWT authentication, and an admin dashboard.
+ 
+**🏨 [BookIt — Real-Time Boutique Stays Booking Platform](https://book-it-eight-rose.vercel.app/)**
+Real-time room availability, JWT authentication, and an admin dashboard for boutique heritage stays across India.
 - Reduced manual property-management effort by **50%**
 - Improved data retrieval speed by **35%** through optimized MongoDB queries and search filters
 - `React.js` `Node.js` `Express.js` `MongoDB` `JWT`
 
-**🛒 [E-Commerce Platform with Role-Based Access Control](https://e-commerce-web-app-with-roles.vercel.app)**
-Full-stack app with 3 role-based dashboards and zero unauthorized access incidents.
-- Built with **Next.js SSR**, mobile-first design, and JWT-secured image uploads
-- Engineered custom RBAC logic across admin, seller, and customer roles
-- `React.js` `Next.js` `Express.js` `MongoDB` `JWT`
 
+**🤖 [AI-SaaS — All-in-One AI Productivity Suite](https://ai-saas-mu-ten.vercel.app/)**
+All-in-one AI platform unifying content generation, smart summarization, image synthesis, and instant translation.
+- Combined four distinct AI capabilities into a single, production-deployed interface
+- Built a responsive, real-time workflow for AI-assisted content creation
+- `React.js` `Next.js` `Node.js` `MongoDB`
 ---
 
 ### 💼 Experience
